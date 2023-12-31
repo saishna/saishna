@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saishna/](https://github.com/saishna/)
 
-- 💬 Ask me about **HTML,CSS,JS,RUST**
-
 - 📫 How to reach me **saishna.201729@ncit.edu.np**
 
 <h3 align="left">Connect with me:</h3>
